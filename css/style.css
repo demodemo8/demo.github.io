@@ -1,0 +1,78 @@
+body{
+    margin-top: 108px;
+}
+.navbar{
+    
+}
+.navbar .nav-item{
+    font-size: 1.4rem;
+    padding-right: 1.2rem;
+    }
+    .column1{
+        line-height: 20rem;
+        font-size: 20rem;
+    }
+    #introduction{
+        position: relative;
+        min-height:180px;
+        background: url(../css/img/lights.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;
+    }
+    .dark-overlay{
+        position:absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+    }
+    #skills{
+        position: relative;
+        min-height:164px;
+        background: url(../css/img/coding5.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;
+        width: 100%;
+    }
+
+    #service{
+        position: relative;
+        min-height:164px;
+        background: url(../css/img/coding1.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;
+    }
+    #services{
+        background-color:#eeeeee;
+    }
+    #workTogether{
+        position: relative;
+        min-height:280px;
+        background: url(../css/img/media.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;   
+    }
+    #footer{
+        background-color:#ffffdd;
+    }
+    #contact{
+        position: relative;
+        min-height:180px;
+        background: url(../css/img/coding2.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;  
+    }
+    #plans{
+        position: relative;
+        min-height:180px;
+        background: url(../css/img/money6.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: #fff;   
+    }
